@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590442309700.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "412406025",
+    "id" : "AF0A0E8",
+    "lastKnownWriteTime" : 1590442380,
+    "last_content_update" : 1590442381963,
+    "path" : "C:/Users/Mariana/Desktop/hello world.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "12,26",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
